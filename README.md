@@ -1,8 +1,6 @@
 # Outline VPN Telegram Bot
 
-A Telegram bot for selling and managing Outline VPN subscriptions using Telegram's payment system.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+A Simple Telegram bot for selling and managing Outline VPN subscriptions using Telegram's payment system.
 
 ## Features
 
@@ -149,18 +147,6 @@ price_mapping = {
 - The bot stores VPN keys in the database. Ensure the database file permissions are restricted.
 - Consider using HTTPS for your Outline API if your server supports it.
 - Regularly backup your database file.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contribution
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-If you encounter any problems or have questions, please open an issue on GitHub.
 
 ---
 Created by [thebrainair](https://github.com/thebrainair)
