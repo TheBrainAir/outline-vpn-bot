@@ -53,7 +53,7 @@ A Simple Telegram bot for selling and managing Outline VPN subscriptions using T
    ```
    TG_API_KEY=your_telegram_bot_token
    OUTLINE_API_URL=your_outline_api_url
-   PROVIDER_TOKEN=your_telegram_payment_provider_token
+   PROVIDER_TOKEN=(donttouch)
    ADMIN_IDS=your_telegram_user_id,another_admin_id
    ```
 
