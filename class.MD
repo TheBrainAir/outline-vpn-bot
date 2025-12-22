@@ -1,3 +1,0 @@
-Yuri
-US
-Version Control
